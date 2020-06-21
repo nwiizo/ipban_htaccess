@@ -1,1 +1,2 @@
 # ipban_htaccess
+X-Forwarded-ForとRemote_ADDRのIPをDenyIPに入れてブロックします
